@@ -1,4 +1,4 @@
-<h2 align="left">👋 Salut, je suis @alexanderworldercraft<br> 👀  Je m'intéresse au Dev, jeux vidéo et à la culture Japonaise<br> 🌱 Je suis actuellement en formation pour devenir Développeur Web, Web Mobile<br> 📫  Comment me joindre, par mail: alexanderworldercraft+github@gmail.com</h2>
+<h2 align="left">👋 Salut, je suis @alexanderworldercraft<br> 👀  Je m'intéresse au Dev, jeux vidéo et à la culture Japonaise<br> 🌱 Je suis actuellement en formation pour devenir Développeur Web, Web Mobile<br> 📫  Comment me joindre, http://worldercraft.42web.io/contactCvJapon.html</h2>
 
 ###
 
