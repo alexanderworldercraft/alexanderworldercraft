@@ -32,6 +32,12 @@ Serveur multimédia personnel.
 
 ✔ Auto-hébergé sous Linux
 
+✔ Gestion automatique des ratios vidéo
+
+✔ Compatible 4:3, 16:9, 21:9 et formats verticaux
+
+✔ Interface adaptative préservant le ratio natif
+
 ![Capture accueil](sami1.png)
 
 ![Capture lecteur vidéo](sami2.png)
