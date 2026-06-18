@@ -72,6 +72,14 @@ Base de connaissances personnelle.
 - Documentation technique
 - Organisation des connaissances
 
+✔ Documentation technique centralisée
+
+✔ Gestion dynamique des pages
+
+✔ Organisation des procédures serveur
+
+✔ Base de connaissances auto-hébergée
+
 ![Capture d'une page](docode.png)
 
 ---
