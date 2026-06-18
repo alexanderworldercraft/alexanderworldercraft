@@ -24,6 +24,10 @@ Serveur multimédia personnel.
 - FFmpeg
 - HLS Streaming
 
+![Capture accueil](sami1.png)
+
+![Capture lecteur vidéo](sami2.png)
+
 ---
 
 ### 🚗 Vehicle
@@ -36,6 +40,10 @@ Gestionnaire de véhicules et d'entretien.
 - MySQL
 - JWT
 - Upload sécurisé
+
+![Capture Dashboard](vehicle1.png)
+
+![Capture véhicule](vehicle2.png)
 
 ---
 
