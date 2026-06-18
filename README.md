@@ -24,6 +24,14 @@ Serveur multimédia personnel.
 - FFmpeg
 - HLS Streaming
 
+✔ Plus de 5000 vidéos gérées
+
+✔ Conversion FFmpeg automatique
+
+✔ Streaming HLS multi-résolution
+
+✔ Auto-hébergé sous Linux
+
 ![Capture accueil](sami1.png)
 
 ![Capture lecteur vidéo](sami2.png)
@@ -40,6 +48,14 @@ Gestionnaire de véhicules et d'entretien.
 - MySQL
 - JWT
 - Upload sécurisé
+
+✔ Gestion des entretiens
+
+✔ Historique complet
+
+✔ Documents sécurisés
+
+✔ Téléversement de fichiers
 
 ![Capture Dashboard](vehicle1.png)
 
