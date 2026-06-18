@@ -56,6 +56,8 @@ Base de connaissances personnelle.
 - Documentation technique
 - Organisation des connaissances
 
+![Capture d'une page](docode.png)
+
 ---
 
 ### 🏗️ Ce qui m'intéresse
